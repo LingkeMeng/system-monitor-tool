@@ -33,3 +33,14 @@ system-monitor-tool/
 ├── memory.c
 ├── memory.h
 └── myMonitoringTool.c
+
+## Run Instructions
+
+After building, run the executable:
+
+./myMonitoringTool
+
+If permission is required, use:
+
+chmod +x myMonitoringTool
+./myMonitoringTool
